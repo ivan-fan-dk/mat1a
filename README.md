@@ -10,26 +10,40 @@ $$\frac{1}{1+3i}+ \frac{1}{(1+3i)^{2}}$$
 ### Method 1 (Consider two fractions individually first):
 First fraction,
 $$\frac{1}{1+3i}$$
+
 $$=\frac{1}{1+3i}\cdot \frac{1-3i}{1-3i}$$
+
 $$= \frac{1-3i}{10}$$
 Second fraction,
 $$\frac{1}{(1+3i)^{2}}$$
+
 $$= \frac{1}{-8+6i}$$
+
 $$=\frac{1}{-8+6i} \cdot \frac{-8-6i}{-8-6i}$$
+
 $$= \frac{-8-6i}{100}$$
 Sum of the two fractions,
 $$\frac{1-3i}{10} + \frac{-8-6i}{100}$$
+
 $$= \frac{10-30i-8-6i}{100}$$
+
 $$= \frac{2-36i}{100}$$
+
 $$= \frac{1}{50} - \frac{9i}{25}$$
 ### Method 2 (Combine two fractions first):
 $$\frac{1}{1+3i}+ \frac{1}{(1+3i)^{2}}$$
+
 $$=\frac{1+3i}{(1+3i)^{2}}+\frac{1}{(1+3i)^{2}}$$
+
 $$=\frac{2+3i}{(1+3i)^{2}}$$
-$$= \frac{2+3i}{-8+6i}$$
+
+$$=\frac{2+3i}{-8+6i}$$
+
 $$=\frac{2+3i}{-8+6i} \cdot \frac{-8-6i}{-8-6i}$$
-$$= \frac{2-36i}{100}$$
-$$= \frac{1}{50} - \frac{9i}{25}$$
+
+$$=\frac{2-36i}{100}$$
+
+$$=\frac{1}{50} - \frac{9i}{25}$$
 ## Exercise 8.c
 $$b=5,~c=\frac{6}{7},~d=\frac{2}{3}$$
 
