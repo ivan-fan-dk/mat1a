@@ -14,7 +14,9 @@ $$\frac{1}{1+3i}$$
 $$=\frac{1}{1+3i}\cdot \frac{1-3i}{1-3i}$$
 
 $$= \frac{1-3i}{10}$$
+
 Second fraction,
+
 $$\frac{1}{(1+3i)^{2}}$$
 
 $$= \frac{1}{-8+6i}$$
@@ -22,7 +24,9 @@ $$= \frac{1}{-8+6i}$$
 $$=\frac{1}{-8+6i} \cdot \frac{-8-6i}{-8-6i}$$
 
 $$= \frac{-8-6i}{100}$$
+
 Sum of the two fractions,
+
 $$\frac{1-3i}{10} + \frac{-8-6i}{100}$$
 
 $$= \frac{10-30i-8-6i}{100}$$
