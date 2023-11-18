@@ -1,12 +1,14 @@
 # README
-Jeg hedder Ivan, og jeg er hjælpelærer til mat1a.
+**Hej!**
 
-I denne hjemmeside kan I se supplerende og detaijerede besvarelser for DTU mat1a.
+**Mit navn er Ivan, og jeg er hjælpelærer på mat1a.**
 
-Jeg har selv lavet dem, så der kan evt. være fejl. I er meget velkomne til at pege dem ud og fortælle mig. &#128541;
+**På denne hjemmeside finder du supplerende og detaljerede besvarelser til opgaverne i DTU mat1a.**
 
-God fornøjelse med opgaverne.
+**Jeg har udarbejdet dem selv, så der kan forekomme fejl. I er mere end velkomne til at rette dem og give mig besked. &#128541;**
 
-Mvh.
+**Jeg håber, at I finder materialet nyttigt og kan have glæde af det i jeres arbejde med opgaverne.**
 
-Ivan
+**Venlig hilsen,**
+
+**Ivan**
